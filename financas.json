@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "mes": "Fevereiro",
+        "descricao": "Passe do LOL",
+        "valor": 50.0
+    },
+    {
+        "id": 2,
+        "mes": "Fevereiro",
+        "descricao": "Fatura Nubank",
+        "valor": 200.0
+    }
+]
